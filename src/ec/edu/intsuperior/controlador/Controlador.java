@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author jhony
+ * @author jordan
  */
 public class Controlador {
      Cliente c;
